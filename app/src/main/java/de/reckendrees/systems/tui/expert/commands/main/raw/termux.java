@@ -24,8 +24,8 @@ import de.reckendrees.systems.tui.expert.tuils.libsuperuser.Shell;
 
 public class termux implements CommandAbstraction, OnFileContentUpdate {
 
-    public static final String TERMUX_SERVICE = "com.termux.app.TermuxService";
-    public static final String ACTION_EXECUTE = "com.termux.service_execute";
+    public static final String TERMUX_SERVICE = "com.termux.app.RunCommandService";
+    public static final String ACTION_EXECUTE = "com.termux.RUN_COMMAND";
     private Context context;
     private File inputFile, outputFile, errorFile,checkFile;
     @Override
