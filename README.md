@@ -7,10 +7,6 @@ Please use the next T-UI version!
 Telegram:
 * [theme from the screenshot](https://t.me/T_uiThemes/50)
 
-<img src="https://github.com/v1nc/TUI-Expert/raw/master/screenshots/green_sea.png" data-canonical-src="https://github.com/v1nc/TUI-Expert/raw/master/screenshots/green_sea.png" width="400" />
-
-
-
 
 # Fixes:
 * hotfix for double(or more) notifications
